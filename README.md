@@ -15,7 +15,7 @@ Esta aplicación se desarrolló para aprobar el curso de Desarrollo Backend de C
 
 ## Descripción
 
-Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js y MongoDB para el backend, y HTML, CSS y JavaScript para el frontend (vistas generadas en Handlebars). Cabe aclarar que se trata de un frontend muy simple ya que el objetivo del curso era centrarse en el backend. Utiliza Passport.js para la autenticación de usuarios y Mongoose para la interacción con la base de datos MongoDB. La aplicación proporciona una interfaz para que los usuarios puedan registrar una cuenta, inicar sesión y navegar por los productos disponibles, agregar productos a su carrito, gestionar su carrito y finalizar la compra.
+Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js y MongoDB para el backend, y HTML, CSS y JavaScript para el frontend (vistas generadas en Handlebars). Cabe aclarar que se trata de un frontend muy simple ya que el objetivo del curso era centrarse en el backend. Utiliza Passport.js para la autenticación de usuarios y Mongoose para la interacción con la base de datos MongoDB. La aplicación proporciona una interfaz para que los usuarios puedan registrar una cuenta, iniciar sesión, navegar por los productos disponibles, agregar productos a su carrito, gestionar su carrito y finalizar la compra.
 
 ## Características
 
