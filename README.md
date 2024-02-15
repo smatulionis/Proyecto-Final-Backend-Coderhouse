@@ -9,8 +9,6 @@ Esta aplicación se desarrolló para aprobar el curso de Desarrollo Backend de C
 - [Capturas de Pantalla](#capturas-de-pantalla)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Descripción
