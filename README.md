@@ -44,7 +44,7 @@ Este proyecto consta de una aplicación web desarrollada con Node.js, Express.js
 1. Clona este repositorio en tu máquina local.
 2. Abre una terminal y navega hasta el directorio del proyecto.
 3. Ejecuta `npm install` para instalar las dependencias del proyecto.
-4. Crea un archivo `.env` en la raíz del proyecto y configura las variables de entorno necesarias (por ejemplo, la URL de la base de datos MongoDB y la clave secreta JWT).
+4. Crea un archivo `.env` en la raíz del proyecto y configura las variables de entorno necesarias (por ejemplo, la URL de la base de datos MongoDB y la clave secreta JWT; pueden contactarse conmigo para que les brinde la información correspondiente).
 5. Ejecuta `npm run dev` para iniciar el servidor.
 6. Abre un navegador web y accede a `http://localhost:8080/home`.
 
